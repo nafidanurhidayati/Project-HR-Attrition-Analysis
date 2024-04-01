@@ -6,5 +6,5 @@ Dalam file notebook tersebut, dilakukan olah data atau data wrangling untuk mema
 ## Detail
 Untuk informasi detail mengenai analisis ini dapat dilihat melalui link berikut :
 - Medium : [https://medium.com/@robiardian1987/e-commerce-customer-churn-8fa1bae7d15f](https://medium.com/@nafidanurhidayati/human-resource-attrition-analysis-fd40a84d3669)
-- Youtube : 
+- Youtube : https://youtu.be/rbO6XyuGKj4 (Proses Upload)
 - Tableau : https://public.tableau.com/app/profile/nafida.nurhidayati/viz/Project2DataVisualizationAttritionAnalysis/DashboardHRAttritionAnalysis?publish=yes
